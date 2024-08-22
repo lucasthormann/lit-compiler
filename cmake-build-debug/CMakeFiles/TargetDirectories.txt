@@ -1,0 +1,3 @@
+/home/rage/code/lit-compiler/cmake-build-debug/CMakeFiles/lit.dir
+/home/rage/code/lit-compiler/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/rage/code/lit-compiler/cmake-build-debug/CMakeFiles/rebuild_cache.dir
